@@ -20,8 +20,8 @@
 
 // --- Controller Settings (I2C) ---
 #define ENABLE_I2C_CONTROLLER true
-#define I2C_SDA 22               // CYD CN1 Header Pin 1
-#define I2C_SCL 27               // CYD CN1 Header Pin 2
+#define I2C_SDA 27               // CYD CN1 Header Pin 1
+#define I2C_SCL 22              // CYD CN1 Header Pin 2
 #define IO_EXPANDER_ADDRESS 0x20 // Default address for most expanders
 
 // --- Choose your Controller Chip ---
